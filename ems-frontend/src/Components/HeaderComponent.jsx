@@ -13,7 +13,7 @@ export const HeaderComponent = ({ darkMode, setDarkMode }) => {
         {/* Buttons */}
         <div className="flex items-center gap-3">
           <a
-            href="https://github.com/itsnehakv/Employee-Management-System"
+            href="https://github.com/AdityaSolanki007/Staff_Sync"
             target="_blank"
             rel="noopener noreferrer"
             className="no-underline px-4 py-2 text-sm josefin-sans-link text-white border rounded-md hover:bg-[#8686AC] hover:text-white transition duration-200"
@@ -22,7 +22,7 @@ export const HeaderComponent = ({ darkMode, setDarkMode }) => {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/nehakvallappil"
+            href="https://www.linkedin.com/in/aditya-solanki007/"
             target="_blank"
             rel="noopener noreferrer"
             className="no-underline px-4 py-2 text-sm josefin-sans-link text-white border border-gray-700 rounded-md hover:bg-[#8686AC] transition duration-200"
