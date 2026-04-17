@@ -152,13 +152,5 @@ Although the project ran correctly locally, the Docker environment produced erro
 1. docker build -t staffsync-backend .
 2. docker run -p 8080:8080 staffsync-backend
 
-## References
-
-1. [Dependency 'mysql:mysql-connector-java:8.0.29' not found](https://stackoverflow.com/questions/72580794/dependency-mysqlmysql-connector-java8-0-29-not-found) | 2. [Deploying SpringBoot application in Render](https://medium.com/@pmanaktala/deploying-a-spring-boot-application-on-render-4e757dfe92ed)
-
----
 <div align="center">
   
-Made by **Neha K Vallappil** •
-[LinkedIn](https://www.linkedin.com/in/nehakvallappil)
-</div>
