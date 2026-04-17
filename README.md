@@ -159,6 +159,3 @@ Although the project ran correctly locally, the Docker environment produced erro
 ---
 <div align="center">
   
-Made by **Neha K Vallappil** •
-[LinkedIn](https://www.linkedin.com/in/nehakvallappil)
-</div>
