@@ -1,4 +1,4 @@
-package io.github.itsnehakv.ems.entity;
+package aadi.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

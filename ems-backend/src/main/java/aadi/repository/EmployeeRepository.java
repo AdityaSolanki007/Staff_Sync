@@ -1,6 +1,6 @@
-package io.github.itsnehakv.ems.repository;
+package aadi.repository;
 
-import io.github.itsnehakv.ems.entity.Employee;
+import aadi.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 //JpaRepository is a Spring Data interface that provides CRUD

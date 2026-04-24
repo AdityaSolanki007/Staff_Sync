@@ -1,4 +1,4 @@
-package io.github.itsnehakv.ems.dto;
+package aadi.dto;
 
 /*
 Repository - access layer ; Interacts w/ database; does CRUD ops.

@@ -1,4 +1,4 @@
-package io.github.itsnehakv.ems.exception;
+package aadi.exception;
 
 
 import org.springframework.http.HttpStatus;

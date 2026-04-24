@@ -1,7 +1,7 @@
-package io.github.itsnehakv.ems.restcontroller;
+package aadi.restcontroller;
 
-import io.github.itsnehakv.ems.dto.EmployeeDTO;
-import io.github.itsnehakv.ems.service.EmployeeService;
+import aadi.dto.EmployeeDTO;
+import aadi.service.EmployeeService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

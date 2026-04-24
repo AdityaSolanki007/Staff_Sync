@@ -1,7 +1,7 @@
-package io.github.itsnehakv.ems.mapper;
+package aadi.mapper;
 
-import io.github.itsnehakv.ems.dto.EmployeeDTO;
-import io.github.itsnehakv.ems.entity.Employee;
+import aadi.dto.EmployeeDTO;
+import aadi.entity.Employee;
 
 public class EmployeeMapper {
     public static EmployeeDTO mapToEmployeeDTO(Employee employee){

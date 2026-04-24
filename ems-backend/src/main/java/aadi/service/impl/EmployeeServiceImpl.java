@@ -1,11 +1,11 @@
-package io.github.itsnehakv.ems.service.impl;
+package aadi.service.impl;
 
-import io.github.itsnehakv.ems.dto.EmployeeDTO;
-import io.github.itsnehakv.ems.entity.Employee;
-import io.github.itsnehakv.ems.exception.ResourceNotFoundException;
-import io.github.itsnehakv.ems.mapper.EmployeeMapper;
-import io.github.itsnehakv.ems.repository.EmployeeRepository;
-import io.github.itsnehakv.ems.service.EmployeeService;
+import aadi.dto.EmployeeDTO;
+import aadi.entity.Employee;
+import aadi.exception.ResourceNotFoundException;
+import aadi.mapper.EmployeeMapper;
+import aadi.repository.EmployeeRepository;
+import aadi.service.EmployeeService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 import java.util.stream.Collectors;
